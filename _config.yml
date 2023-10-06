@@ -1,17 +1,16 @@
 title: blank
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
-description: |
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+first_name: Avaljot
+middle_name: 
+last_name: Singh
+email: avaljot2@illinois.edu
+description: 
 footer_text: |
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website
+  
+keywords: academic-website, portfolio-website
 lang: en
-icon: ⚛️
-url: https://alshedivat.github.io
-baseurl: /al-folio
+icon: 
+url: https://avaljotsingh.github.io
+baseurl: 
 last_updated: false
 impressum_path: null
 repo_theme_light: default
@@ -20,7 +19,7 @@ repo_trophies:
   enabled: true
   theme_light: flat
   theme_dark: gitdimmed
-rss_icon: true
+rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 max_width: 800px
@@ -29,9 +28,9 @@ serve_schema_org: false
 og_image: null
 github_username: null
 gitlab_username: null
-twitter_username: null
+twitter_username: singhasAvaljot
 mastodon_username: null
-linkedin_username: null
+linkedin_username: avaljot-singh
 telegram_username: null
 scholar_userid: null
 semanticscholar_id: null
@@ -69,7 +68,7 @@ cronitor_analytics: null
 google_site_verification: null
 bing_site_verification: null
 blog_name: al-folio
-blog_nav_title: blog
+blog_nav_title: 
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 pagination:
@@ -251,7 +250,7 @@ enable_bing_verification: false
 enable_masonry: true
 enable_math: true
 enable_tooltips: false
-enable_darkmode: true
+enable_darkmode: false
 enable_navbar_social: false
 enable_project_categories: true
 enable_medium_zoom: true
