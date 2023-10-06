@@ -49,21 +49,6 @@ nav: true
 </div>
 
 <br/>
-<!-- 
-<div class="title"><a href="https://arxiv.org/abs/2301.13845"><b>Interpreting Robustness Proofs of Deep Neural Networks
-</b></a></div>
-  <div class="author"> 
-      <nobr> Debangshu Banerjee,</nobr>
-      <nobr> Avaljot Singh,</nobr>        
-      <nobr> Gagandeep Singh</nobr>
-  </div>
-  <div class="periodical"> 
-  <em><b>Arxiv 2023</b></em>
-  </div>
-<div class="links">
-</div> -->
 
-
-<br/>
 <!-- 
 {*} marked author names are alphabetical -->
