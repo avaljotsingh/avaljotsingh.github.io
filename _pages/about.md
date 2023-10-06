@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 4111 </p>
+    <p>Room 4107 </p>
     <p>Thomas M Siebel Center</p>
     <p>201 Goodwin Avenue</p>
-    <p> Urbana </p>
+    <p> Urbana, </p>
     <p> Illinois, 61801 </p>
     <p> United States </p>
 
