@@ -20,6 +20,9 @@ nav: true
   <div class="periodical">
     <em><b> Outstanding Paper </b></em>      
   </div>
+  <div><a href="https://arxiv.org/abs/2301.13845">
+    Arxiv
+  </a></div>
 <div class="links">
 </div>
 
@@ -46,7 +49,7 @@ nav: true
 </div>
 
 <br/>
-
+<!-- 
 <div class="title"><a href="https://arxiv.org/abs/2301.13845"><b>Interpreting Robustness Proofs of Deep Neural Networks
 </b></a></div>
   <div class="author"> 
@@ -58,7 +61,7 @@ nav: true
   <em><b>Arxiv 2023</b></em>
   </div>
 <div class="links">
-</div>
+</div> -->
 
 
 <br/>
