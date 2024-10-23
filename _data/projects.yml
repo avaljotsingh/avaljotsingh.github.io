@@ -1,0 +1,13 @@
+- title: "ConstraintFlow"
+  description: "We develop a ConstraintFlow, a declarative DSL for specifying Abstract Interpretation-based DNN certifiers. It provides a lightweight automatic verification, which can be used to ensure the over-approximation-based soundness of DNN certifiers. We are also building a compiler that can generate an optimized executabels that can run on different hardwares."
+  url: "https://arxiv.org/abs/2403.18729"
+  selected: true
+
+- title: "Termination Analysis of Programs"
+  description: "We develop Syndicate, a novel framework for proving termination of programs by synergistically generating ranking functions and invariants."
+  url: "https://arxiv.org/abs/2404.05951"
+  selected: true
+
+- title: "Automated Theorem Proving"
+  description: "Using Large Language Models to automatically prove theorems."
+  selected: true

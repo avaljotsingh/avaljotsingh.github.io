@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: 
 # years: [2018, 2020, 2021, 2022]
-nav: true
+nav: false
 ---
 
 <div class="title"><a href="https://arxiv.org/abs/2403.18729"><b>ConstraintFlow: A DSL for Specification and Verification of Neural Network Analyses

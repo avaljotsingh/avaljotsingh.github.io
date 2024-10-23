@@ -1,0 +1,17 @@
+<div class="projects">
+    {% assign selected_projects = site.data.projects | where: "selected", true %}
+    {% if selected_projects.size > 0 %}
+      {% for project in selected_projects %}
+      <div class="project-item">
+        <h3 class="project-title">{{ project.title }}</h3>
+        <p class="project-description">{{ project.description }}</p>
+        {% if project.url %}
+        <a href="{{ project.url }}">Learn More</a>
+        {% endif %}
+      </div>
+      {% endfor %}
+    {% else %}
+      <p>No projects available.</p>
+    {% endif %}
+  </div>
+  

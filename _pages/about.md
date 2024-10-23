@@ -18,7 +18,8 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
+current_projects: true # includes a list of projects marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -27,4 +28,4 @@ My current research is focused on making Neural Networks trustworthy by making i
 
 Prior to starting my PhD, I graduated with Bachelors and Masters in Computer Science from IIT Delhi in May 2021, where I was advised by [Prof. Sanjiva Prasad](https://www.cse.iitd.ernet.in/~sanjiva/) ([Thesis](/assets/pdf/thesis_aval.pdf)). I have also had the opportunity of working with [Rahul Sharma](https://www.microsoft.com/en-us/research/people/rahsha/) at [MSR India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) and [Prof. Nate Foster](https://www.cs.cornell.edu/~jnfoster/) at [Cornell University](https://www.cs.cornell.edu/) during my research internships.
 
-[Resume](/assets/pdf/cv2.pdf)
+[Resume](/assets/pdf/cv_latest.pdf)
