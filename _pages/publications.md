@@ -7,6 +7,23 @@ description:
 nav: false
 ---
 
+<div class="title"><a href="https://arxiv.org/abs/2404.05951"><b>Syndicate: Synergistic Synthesis of Ranking Function and Invariants for Termination Analysis
+</b></a></div>
+  <div class="author"> 
+      <nobr> Yasmin Sarita,</nobr>
+      <nobr> Avaljot Singh,</nobr>
+      <nobr> Shaurya Gomber,</nobr>
+      <nobr> Gagandeep Singh,</nobr>
+      <nobr> Mahesh Vishwanathan</nobr>
+  </div>
+  <div><a href="https://arxiv.org/abs/2404.05951">
+    Arxiv 2024
+  </a></div>
+<div class="links">
+</div>
+
+<br/>
+
 <div class="title"><a href="https://arxiv.org/abs/2403.18729"><b>ConstraintFlow: A DSL for Specification and Verification of Neural Network Analyses
 </b></a></div>
   <div class="author"> 
