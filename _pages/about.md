@@ -20,7 +20,7 @@ news: false
 latest_posts: false
 selected_papers: false
 current_projects: false
-research_themes: false
+research_themes: true
 social: true
 ---
 
@@ -30,4 +30,4 @@ In one direction, I develop declarative and formally verified infrastructures fo
 
 Prior to starting my PhD, I graduated with Bachelors and Masters in Computer Science from IIT Delhi in May 2021, where I was advised by [Prof. Sanjiva Prasad](https://www.cse.iitd.ernet.in/~sanjiva/) ([Thesis](/assets/pdf/thesis_aval.pdf)). I have also had the opportunity of working with [Shraddha Barke](https://www.microsoft.com/en-us/research/people/sbarke/) and [Suman Nath](https://www.microsoft.com/en-us/research/people/sumann/) at [MSR Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), [Rahul Sharma](https://www.microsoft.com/en-us/research/people/rahsha/) at [MSR India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) and [Prof. Nate Foster](https://www.cs.cornell.edu/~jnfoster/) at [Cornell University](https://www.cs.cornell.edu/) during my research internships.
 
-[Research](/research/) · [Publications](/publications/) · [CV](/assets/pdf/cv_latest.pdf)
+[Publications](/publications/) · [CV](/assets/pdf/cv_latest.pdf)

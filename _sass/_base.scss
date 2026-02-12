@@ -93,16 +93,23 @@ blockquote {
     width: 100%;
   }
 
-  // Research project cards: accommodate different figure sizes; each image keeps its aspect ratio
-  .card-img-wrapper {
-    display: block;
+  // Research / project cards with image column on the left:
+  // use a reasonably tall fixed image area and crop gracefully.
+  .card-img {
+    // height: 220px;
+    width: 100%;
+    overflow: hidden;
     background-color: var(--global-bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-    .card-img-top {
+    img {
       width: 100%;
-      height: auto;
+      height: 100%;
+      object-fit: contain;
+      object-position: center;
       display: block;
-      vertical-align: top;
     }
   }
 
