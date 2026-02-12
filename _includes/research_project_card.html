@@ -12,8 +12,8 @@
       <div class="card-body">
         <h3 class="card-title">{{ project.title }}</h3>
         <p class="card-text">{{ project.description }}</p>
-        {%- if project.url -%}
         <div class="mt-2">
+          {%- if project.url -%}
           <a href="{% if project.url contains 'http' %}{{ project.url }}{% else %}{{ project.url | relative_url }}{% endif %}" class="card-link">
             {%- if project.venue and project.venue != 'Manuscript' -%}
               {{ project.venue }}
@@ -23,8 +23,12 @@
               Learn more
             {%- endif -%}
           </a>
+          {%- endif -%}
+          {%- if project.github -%}
+          {%- if project.url -%}<span class="mx-1">·</span>{%- endif -%}
+          <a href="{{ project.github }}" class="card-link" target="_blank" rel="noopener noreferrer">GitHub</a>
+          {%- endif -%}
         </div>
-        {%- endif -%}
       </div>
     </div>
   </div>
