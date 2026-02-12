@@ -22,9 +22,9 @@ nav_order: 2
 <div class="links"></div>
 <br/>
 
-<div class="title"><b>Theorem Proving with Large Language Models</b></div>
+<div class="title"><b>Unified Operation Formalism for LLM-based Theorem Proving Systems</b></div>
 <div class="author"><nobr><b>Avaljot Singh</b>, Shaurya Gomber, Yamin Sarita, Jose Meseguer, Gagandeep Singh</nobr></div>
-<div><a href="/assets/pdf/Theorem_Proving.pdf">Under 2026</a></div>
+<div><a href="/assets/pdf/Theorem_Proving.pdf">Under Review 2026</a></div>
 <div class="links"></div>
 <br/>
 
@@ -46,9 +46,10 @@ nav_order: 2
 <div class="links"></div>
 <br/>
 
-<div class="title"><b>Ranking Function Termination via Bidirectional Decompositional Search</b></div>
+<div class="title"><b>Efficient Ranking Function-Based Termination Analysis with Bi-Directional Feedback</b></div>
 <div class="author"><nobr>Yasmin Sarita, <b>Avaljot Singh</b>, Shaurya Gomber, Gagandeep Singh, Mahesh Vishwanathan</nobr></div>
 <div><a href="https://arxiv.org/abs/2404.05951">ESOP 2026</a></div>
+<div><a href="https://github.com/uiuc-focal-lab/Syndicate">GitHub</a></div>
 <div class="links"></div>
 <br/>
 
