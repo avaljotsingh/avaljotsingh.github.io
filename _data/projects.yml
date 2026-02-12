@@ -1,13 +1,15 @@
-- title: "ConstraintFlow"
-  description: "We develop a ConstraintFlow, a declarative DSL for specifying Abstract Interpretation-based DNN certifiers. It provides a lightweight automatic verification, which can be used to ensure the over-approximation-based soundness of DNN certifiers. We are also building a compiler that can generate an optimized executabels that can run on different hardwares."
-  url: "https://arxiv.org/abs/2403.18729"
+- title: "Formal Methods for AI"
+  description: |
+    Making neural networks trustworthy via verification and soundness guarantees. This direction includes all **ConstraintFlow**-related work: a DSL for specifying and verifying DNN certifiers, a tensor-based compiler and runtime, automated verification of certifier soundness (ProveSound), and interpreting robustness proofs (ProFIt). Also the broader use of abstract interpretation for DNN verification.
+  url: "https://arxiv.org/abs/2504.04542"
   selected: true
 
-- title: "Termination Analysis of Programs"
-  description: "We develop Syndicate, a novel framework for proving termination of programs by synergistically generating ranking functions and invariants."
-  url: "https://arxiv.org/abs/2404.05951"
-  selected: true
-
-- title: "Automated Theorem Proving"
-  description: "Using Large Language Models to automatically prove theorems."
+- title: "AI for Formal Methods"
+  description: |
+    Using AI to improve formal methods and program analysis. This includes:
+    - **[RuleFlow](https://arxiv.org/abs/2602.09051)** — generating reusable program optimizations with LLMs.
+    - **Cost-driven synthesis of abstract interpreters** — [Sail](https://arxiv.org/pdf/2511.13663): synthesizing sound abstract interpreters optimized for cost.
+    - **Theorem proving** — [manuscript](/assets/pdf/Theorem_Proving_VefiAI_2026.pdf).
+    - **Improving KV caching for LLM inference engines** — more efficient inference for large language models.
+  url: "https://arxiv.org/abs/2602.09051"
   selected: true

@@ -4,7 +4,7 @@
       {% for project in selected_projects %}
       <div class="project-item">
         <h3 class="project-title">{{ project.title }}</h3>
-        <p class="project-description">{{ project.description }}</p>
+        <div class="project-description">{{ project.description | markdownify }}</div>
         {% if project.url %}
         <a href="{{ project.url }}">Learn More</a>
         {% endif %}

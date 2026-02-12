@@ -1,0 +1,30 @@
+<!-- <h2>Research</h2> -->
+
+<p>My work is organized around two tightly connected directions: using formal methods to make AI systems trustworthy, and using AI to automate and scale formal methods.</p>
+
+<!-- ========== Formal Methods for AI ========== -->
+<h3>Formal Methods for AI</h3>
+
+<p>{{ site.data.research_projects.fm_for_ai.intro }}</p>
+
+<div class="row">
+  {%- for project in site.data.research_projects.fm_for_ai.projects -%}
+    {%- include research_project_card.html project=project -%}
+  {%- endfor -%}
+</div>
+
+<!-- ========== AI for Formal Methods ========== -->
+<h3>AI for Formal Methods</h3>
+
+<p>{{ site.data.research_projects.ai_for_fm.intro }}</p>
+
+<div class="row">
+  {%- for project in site.data.research_projects.ai_for_fm.projects -%}
+    {%- include research_project_card.html project=project -%}
+  {%- endfor -%}
+</div>
+
+<!-- ========== Other Research ========== -->
+<h3>Other Research</h3>
+
+<p>Additional work that does not sit directly under the two main themes is grouped under <a href="{{ '/publications/' | relative_url }}#other">Other research</a> on the <a href="{{ '/publications/' | relative_url }}">Publications</a> page: e.g. <strong>Syndicate</strong> (synergistic synthesis of ranking functions and invariants for termination), <strong>AgentRx</strong> (diagnosing AI agent failures from execution trajectories), and <strong>ProFIt</strong> (interpreting robustness proofs of deep neural networks).</p>

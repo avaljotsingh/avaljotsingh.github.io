@@ -53,13 +53,18 @@ layout: default
             {%- include latest_posts.html %}
           {%- endif %}
 
+          <!-- Research themes -->
+          {% if page.research_themes -%}
+            {%- include research_themes.html %}
+          {%- endif %}
+
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2>Selected Publications</h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
-          <!-- Current papers -->
+          <!-- Current projects (optional) -->
           {% if page.current_projects -%}
             <h2>Current Projects</h2>
             {%- include current_projects.html %}

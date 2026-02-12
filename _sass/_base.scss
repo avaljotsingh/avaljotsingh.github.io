@@ -93,6 +93,19 @@ blockquote {
     width: 100%;
   }
 
+  // Research project cards: accommodate different figure sizes; each image keeps its aspect ratio
+  .card-img-wrapper {
+    display: block;
+    background-color: var(--global-bg-color);
+
+    .card-img-top {
+      width: 100%;
+      height: auto;
+      display: block;
+      vertical-align: top;
+    }
+  }
+
   .card-title {
     color: var(--global-text-color);
   }
