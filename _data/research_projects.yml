@@ -42,5 +42,5 @@ ai_for_fm:
     - title: "Automated Theorem Proving"
       description: "This project studies the use of AI and large language models to assist and automate theorem proving. The goal is to support formal reasoning by guiding proof search, generating intermediate lemmas, and helping interact with modern theorem provers."
       url: "/assets/pdf/Theorem_Proving.pdf"
-      venue: "Under Review 2026"
+      venue: "VerifAI @ ICLR 2026"
       img: "assets/img/theoremProving.png"
