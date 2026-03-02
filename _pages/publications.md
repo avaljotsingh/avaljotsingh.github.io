@@ -42,7 +42,7 @@ nav_order: 2
 
 <div class="title"><b>Unified Operation Formalism for LLM-based Theorem Proving Systems</b></div>
 <div class="author"><nobr><b>Avaljot Singh</b>, Shaurya Gomber, Yamin Sarita, Jose Meseguer, Gagandeep Singh</nobr></div>
-<div><a href="/assets/pdf/Theorem_Proving.pdf">VerifAI, ICLR 2026</a></div>
+<div><a href="/assets/pdf/Theorem_Proving.pdf">VerifAI @ ICLR 2026</a></div>
 <div class="links"></div>
 <br/>
 
