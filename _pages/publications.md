@@ -22,12 +22,6 @@ nav_order: 2
 <div class="links"></div>
 <br/>
 
-<div class="title"><b>Unified Operation Formalism for LLM-based Theorem Proving Systems</b></div>
-<div class="author"><nobr><b>Avaljot Singh</b>, Shaurya Gomber, Yamin Sarita, Jose Meseguer, Gagandeep Singh</nobr></div>
-<div><a href="/assets/pdf/Theorem_Proving.pdf">Under Review 2026</a></div>
-<div class="links"></div>
-<br/>
-
 <div class="title"><b>Lumos: Let there be Language Model System Certification</b></div>
 <div class="author"><nobr>Isha Chaudhary, Vedaant Jain, <b>Avaljot Singh</b>, Kavya Sachdeva, Sayan Ranu, Gagandeep Singh</nobr></div>
 <div><a href="https://arxiv.org/pdf/2512.02966">arXiv 2026</a></div>
@@ -43,6 +37,12 @@ nav_order: 2
 <div class="title"><b>A Tensor-Based Compiler and a Runtime for Neuron-Level DNN Certifier Specifications</b></div>
 <div class="author"><nobr><b>Avaljot Singh</b>, Yasmin Sarita, Aditya Mishra, Ishaan Goyal, Gagandeep Singh, Charith Mendis</nobr></div>
 <div><a href="https://arxiv.org/abs/2507.20055">arXiv 2025</a></div>
+<div class="links"></div>
+<br/>
+
+<div class="title"><b>Unified Operation Formalism for LLM-based Theorem Proving Systems</b></div>
+<div class="author"><nobr><b>Avaljot Singh</b>, Shaurya Gomber, Yamin Sarita, Jose Meseguer, Gagandeep Singh</nobr></div>
+<div><a href="/assets/pdf/Theorem_Proving.pdf">VerifAI, ICLR 2026</a></div>
 <div class="links"></div>
 <br/>
 
