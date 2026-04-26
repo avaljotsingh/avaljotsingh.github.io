@@ -40,6 +40,12 @@ nav_order: 2
 <div class="links"></div>
 <br/>
 
+<div class="title"><b>Adaptive Quantization of CNNs for Spectrogram-Based Foreground Activity Classification</b></div>
+<div class="author"><nobr>Ashitabh Misra, Madhav Agrawal, Tomoyoshi Kimura, Jinyang Li, <b>Avaljot Singh</b>, Arham Jain, Tarek Abdelzaher</nobr></div>
+<div>IJCNN 2026</div>
+<div class="links"></div>
+<br/>
+
 <div class="title"><b>Unified Operation Formalism for LLM-based Theorem Proving Systems</b></div>
 <div class="author"><nobr><b>Avaljot Singh</b>, Shaurya Gomber, Yamin Sarita, Jose Meseguer, Gagandeep Singh</nobr></div>
 <div><a href="/assets/pdf/Theorem_Proving.pdf">VerifAI @ ICLR 2026</a></div>
