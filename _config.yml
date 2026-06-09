@@ -249,7 +249,7 @@ enable_cronitor_analytics: false
 enable_google_verification: false
 enable_bing_verification: false
 enable_masonry: true
-enable_math: true
+enable_math: false
 enable_tooltips: false
 enable_darkmode: false
 enable_navbar_social: false
