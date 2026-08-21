@@ -13,12 +13,6 @@ url: https://avaljotsingh.github.io
 baseurl: 
 last_updated: false
 impressum_path: null
-repo_theme_light: default
-repo_theme_dark: dark
-repo_trophies:
-  enabled: true
-  theme_light: flat
-  theme_dark: gitdimmed
 rss_icon: false
 navbar_fixed: true
 footer_fixed: true
@@ -86,19 +80,12 @@ giscus:
   emit_metadata: 0
   lang: en
 disqus_shortname:
-external_sources: []
 collections:
   news:
     defaults:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
-  teaching:
-    output: true
-    permalink: /teaching/:path/
 announcements:
   enabled: true
   scrollable: true
@@ -131,19 +118,15 @@ keep_files:
   - .git
 plugins:
   - jekyll-archives
-  - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-get-json
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-toc
-  - jekyll-twitter-plugin
   - jemoji
 defaults:
   - scope:
@@ -170,14 +153,13 @@ jekyll-archives:
     year: /blog/:year/
     tag: /blog/tag/:name/
     category: /blog/category/:name/
-display_tags:
-  - formatting
-  - images
-  - links
-  - math
-  - code
-display_categories:
-  - blockquotes
+# Tags and categories listed at the top of /blog/. Empty lists still render an
+# empty bar, so leave these commented out until there are posts to group.
+# display_tags:
+#   - formal-methods
+#   - llm
+# display_categories:
+#   - notes
 scholar:
   last_name:
     - Singh
@@ -241,17 +223,14 @@ imagemagick:
     - .tiff
   output_formats:
     webp: '-resize 800x'
-jekyll-diagrams: null
 enable_google_analytics: false
 enable_cronitor_analytics: false
 enable_google_verification: false
 enable_bing_verification: false
-enable_masonry: true
 enable_math: true
 enable_tooltips: false
 enable_darkmode: true
 enable_navbar_social: true
-enable_project_categories: true
 enable_medium_zoom: true
 enable_progressbar: true
 bootstrap-table:
@@ -273,16 +252,3 @@ medium_zoom:
   version: 1.0.8
   integrity: sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=
 
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
