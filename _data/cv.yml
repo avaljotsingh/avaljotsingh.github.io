@@ -1,0 +1,155 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Avaljot Singh
+    - name: Position
+      value: PhD Candidate, Department of Computer Science, University of Illinois Urbana-Champaign
+    - name: Advisors
+      value: Prof. Gagandeep Singh and Prof. Charith Mendis
+    - name: Expected Graduation
+      value: December 2026
+    - name: Email
+      value: avaljot2@illinois.edu
+    - name: Languages
+      value: English, Hindi, Punjabi
+
+- title: Research Interests
+  type: list
+  contents:
+    - My research centers on a bidirectional interaction between formal methods and artificial
+      intelligence. On one hand, I develop formal and declarative infrastructures for building
+      trustworthy AI systems, with a focus on specification, soundness verification, and efficient
+      execution of AI analyses and certification procedures. On the other hand, I study how learning
+      and synthesis techniques can automate formal methods themselves, enabling automatic
+      construction of verification tools, program analyses, and reasoning procedures.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: University of Illinois Urbana-Champaign
+      department: Urbana, IL, USA
+      year: 2022 - 2026
+      description:
+        - Advisors: Prof. Gagandeep Singh and Prof. Charith Mendis
+        - Research areas: programming languages, formal methods, and machine learning
+        - GPA: 4.0 / 4.0
+    - title: B.Tech. and M.Tech. in Computer Science
+      institution: Indian Institute of Technology, Delhi
+      department: New Delhi, India
+      year: 2016 - 2021
+      description:
+        - "Advisor: Prof. Sanjiva Prasad"
+        - "Thesis: Algebraic techniques for network routing"
+        - "GPA: 9.5 / 10"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: Microsoft Research
+      department: Redmond, WA, USA
+      year: 2025
+      description:
+        - Mentors: Shraddha Barke and Suman Nath
+        - Studied failures in LLM-based AI agents by analyzing execution trajectories.
+        - Designed symbolic ways of agent execution to pinpoint failure modes and improve agent reliability.
+    - title: Quantitative Researcher
+      institution: Graviton Research Capital LLP
+      department: Gurugram, India
+      year: 2021 - 2022
+      description:
+        - Developed and backtested systematic quantitative trading strategies using statistical modeling and data analysis.
+        - Built data pipelines and research infrastructure to evaluate signal quality across large financial datasets.
+    - title: Research Intern
+      institution: Microsoft Research
+      department: Bangalore, India
+      year: 2021
+      description:
+        - Mentor: Rahul Sharma
+        - Designed a domain-specific language and type system for mixed-mode multi-party computation applied to ML workloads.
+        - Formally proved correctness and cryptographic security guarantees for well-typed programs in the system.
+    - title: Software Engineering Intern
+      institution: Uber
+      department: Hyderabad, India
+      year: 2020
+      description:
+        - Built an automated document transcription pipeline using text detection, recognition, and classification.
+        - Developed a text classification approach using graph isomorphisms to detect and encode structural features of text.
+    - title: Research Intern
+      institution: Cornell University
+      department: Ithaca, NY, USA
+      year: 2019
+      description:
+        - Mentor: Prof. Nate Foster
+        - Extended NetKAT, a formal framework for network programming, to support configurable edge devices.
+        - Defined the syntax and semantics of Edge-NetKAT, pushing NetKAT program functionality to programmable network edges.
+    - title: Research Intern
+      institution: Hiroshima University
+      department: Hiroshima, Japan
+      year: 2018
+      description:
+        - Mentor: Prof. Idaku Ishii
+        - Implemented a facial recognition system mounted on a 2-DOF mechanical tracking actuator for real-time surveillance.
+        - Developed a high-speed camera interfacing pipeline for real-time image synthesis and object tracking.
+
+- title: Research Projects
+  type: nested_list
+  contents:
+    - title: Formal Methods for AI
+      items:
+        - "ConstraintFlow — a declarative DSL for specifying and verifying neural network certifiers, reducing implementation complexity significantly over hand-written implementations. [SAS 2024]"
+        - "ProveSound — an automated soundness verifier that formally checks certifier implementations against concrete neural network semantics. [OOPSLA 2025]"
+        - "Neuton — a compiler and runtime translating ConstraintFlow specifications into efficient executables for large-scale neural network verification. [Under review]"
+        - "KV cache management for agentic workflows — principled methods for cache eviction and memory management tailored to long-horizon, multi-step LLM agents. [Ongoing]"
+    - title: AI for Formal Methods
+      items:
+        - "SAIL — a synthesis system that automatically generates provably sound neural network certifiers using ConstraintFlow, its verifier, and LLM-guided search over certifier designs. [PLDI 2026]"
+        - "Maestro — a unified operational formalism for LLM-based theorem-proving systems, guiding proof search and generating intermediate lemmas. [VerifAI @ ICLR 2026]"
+    - title: AI for Compilers
+      items:
+        - "RuleFlow — combines LLMs with compiler and program analysis techniques to automatically generate reusable Pandas and data-analysis optimizations. [COLM 2026]"
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Bronze Medal, ACM Student Research Competition at PLDI 2024, for ConstraintFlow
+    - year: 2023
+      items:
+        - Outstanding Paper Award, WFVML at ICML 2023, for Interpreting Robustness Proofs of Deep Neural Networks
+    - year: 2021
+      items:
+        - IIT Delhi Semester Merit Award, top 7% of the department for 7 consecutive semesters
+    - year: 2016
+      items:
+        - All India Rank 141, IIT Joint Entrance Examination (JEE Advanced)
+        - National top 1%, National Standard Examinations in Chemistry and Astronomy
+    - year: 2015
+      items:
+        - KVPY Fellow, selected by IISc Bangalore
+    - year: 2013
+      items:
+        - NTSE Scholar, selected by CBSE Delhi
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: "CS 477: Formal Software Development Methods"
+      institution: University of Illinois Urbana-Champaign
+      year: Spring 2024
+      description:
+        - Teaching Assistant
+    - title: Analysis and Design of Algorithms; Introduction to Functional Programming; Programming Languages; Introduction to Computer Science
+      institution: Indian Institute of Technology, Delhi
+      year: 2019 - 2021
+      description:
+        - Teaching Assistant
+
+- title: Academic Service
+  type: list
+  contents:
+    - "<b>Reviewer:</b> NeurIPS 2026, SAS 2026, VerifAI @ ICLR 2026, Formal Methods in System Design 2024"
+    - "<b>Artifact Evaluation Committee:</b> PLDI 2026, CAV 2025, ECOOP 2025"

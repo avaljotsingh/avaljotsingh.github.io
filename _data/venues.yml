@@ -1,6 +1,48 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Venue badges shown next to each publication.
+# Blues  = programming languages / formal methods venues
+# Teals  = machine learning / AI venues
+# Grey   = preprints and journals
 
-"PhysRev":
-  url: https://journals.aps.org/
+"PLDI":
+  url: https://pldi26.sigplan.org/
+  color: "#1b3a6b"
+
+"OOPSLA":
+  url: https://2025.splashcon.org/
+  color: "#24518f"
+
+"ESOP":
+  url: https://etaps.org/2026/conferences/esop/
+  color: "#34689e"
+
+"SAS":
+  url: https://sas2024.github.io/
+  color: "#4a7fb5"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#0f7a6c"
+
+"ICLR-W":
+  url: https://iclr.cc/
+  color: "#46a08f"
+
+"COLM":
+  url: https://colmweb.org/
+  color: "#16897a"
+
+"EMNLP":
+  url: https://2026.emnlp.org/
+  color: "#1f9d7e"
+
+"IJCNN":
+  url: https://www.ijcnn.org/
+  color: "#5a9d8e"
+
+"FnTPL":
+  url: https://www.nowpublishers.com/PGL
+  color: "#5a6b7d"
+
+"Preprint":
+  url: https://arxiv.org/a/singh_a_1
+  color: "#8a8f98"

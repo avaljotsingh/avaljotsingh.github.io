@@ -1,12 +1,12 @@
 title: blank
 first_name: Avaljot
-middle_name: 
+middle_name:
 last_name: Singh
 email: avaljot2@illinois.edu
-description: 
+description: PhD candidate at the University of Illinois Urbana-Champaign working at the intersection of formal methods and artificial intelligence.
 footer_text: |
   
-keywords: academic-website, portfolio-website
+keywords: formal methods, artificial intelligence, program verification, neural network certification, abstract interpretation, program synthesis, LLM
 lang: en
 icon: 
 url: https://avaljotsingh.github.io
@@ -23,16 +23,16 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 max_width: 1000px
-serve_og_meta: false
-serve_schema_org: false
+serve_og_meta: true
+serve_schema_org: true
 og_image: null
-github_username: null
+github_username: avaljotsingh
 gitlab_username: null
 twitter_username: singhasAvaljot
 mastodon_username: null
 linkedin_username: avaljot-singh
 telegram_username: null
-scholar_userid: null
+scholar_userid: QRMuJogAAAAJ
 semanticscholar_id: null
 whatsapp_number: null
 orcid_id: null
@@ -48,7 +48,7 @@ work_url: null
 keybase_username: null
 wikidata_id: null
 wikipedia_id: null
-dblp_url: null
+dblp_url: https://dblp.org/pid/339/0936.html
 stackoverflow_id: null
 kaggle_id: null
 lastfm_id: null
@@ -66,9 +66,9 @@ google_analytics: null
 cronitor_analytics: null
 google_site_verification: null
 bing_site_verification: null
-blog_name: al-folio
+blog_name: Notes
 blog_nav_title: 
-blog_description: a simple whitespace theme for academics
+blog_description: occasional writing on formal methods, AI, and the space between them
 permalink: /blog/:year/:title/
 pagination:
   enabled: true
@@ -76,7 +76,7 @@ related_blog_posts:
   enabled: true
   max_related: 5
 giscus:
-  repo: alshedivat/al-folio
+  repo: avaljotsingh/avaljotsingh.github.io
   category: Comments
   mapping: title
   strict: 1
@@ -85,10 +85,8 @@ giscus:
   theme: preferred_color_scheme
   emit_metadata: 0
   lang: en
-disqus_shortname: al-folio
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+disqus_shortname:
+external_sources: []
 collections:
   news:
     defaults:
@@ -221,7 +219,7 @@ filtered_bibtex_keywords:
   - website
   - preview
   - altmetric
-max_author_limit: 3
+max_author_limit: 10
 more_authors_animation_delay: 10
 external_links:
   enabled: true
@@ -249,10 +247,10 @@ enable_cronitor_analytics: false
 enable_google_verification: false
 enable_bing_verification: false
 enable_masonry: true
-enable_math: false
+enable_math: true
 enable_tooltips: false
-enable_darkmode: false
-enable_navbar_social: false
+enable_darkmode: true
+enable_navbar_social: true
 enable_project_categories: true
 enable_medium_zoom: true
 enable_progressbar: true

@@ -1,34 +1,61 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Coauthor names listed here are rendered as links in the publication list.
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Singh":
+  - firstname: ["Gagandeep"]
+    url: https://ggndpsngh.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Mendis":
+  - firstname: ["Charith"]
+    url: https://charithmendis.com/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Viswanathan":
+  - firstname: ["Mahesh"]
+    url: https://mahesh-viswanathan.info/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Meseguer":
+  - firstname: ["Jose"]
+    url: https://meseguer.cs.illinois.edu/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Abdelzaher":
+  - firstname: ["Tarek"]
+    url: https://abdelzaher.cs.illinois.edu/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Misailovic":
+  - firstname: ["Sasa"]
+    url: https://misailo.cs.illinois.edu/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Zhang":
+  - firstname: ["Huan"]
+    url: https://huan-zhang.com/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Ranu":
+  - firstname: ["Sayan"]
+    url: https://www.cse.iitd.ac.in/~sayan/
+
+"Barke":
+  - firstname: ["Shraddha"]
+    url: https://www.microsoft.com/en-us/research/people/sbarke/
+
+"Nath":
+  - firstname: ["Suman"]
+    url: https://www.microsoft.com/en-us/research/people/sumann/
+
+"Bansal":
+  - firstname: ["Chetan"]
+    url: https://www.microsoft.com/en-us/research/people/chetanb/
+
+"Banerjee":
+  - firstname: ["Debangshu"]
+    url: https://debangshu-banerjee.github.io/
+
+"Gomber":
+  - firstname: ["Shaurya"]
+    url: https://shauryagomber.github.io/
+
+"Ugare":
+  - firstname: ["Shubham"]
+    url: https://shubhamugare.github.io/
+
+"Baziotis":
+  - firstname: ["Stefanos"]
+    url: https://baziotis.cs.illinois.edu/

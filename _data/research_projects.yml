@@ -1,5 +1,3 @@
-# Project card images: currently all use ruleflowLogo.png as placeholder.
-# When ready, set each project's img to e.g. assets/img/projects/constraintflow.jpg (see assets/img/projects/).
 # Formal Methods for AI (pipeline: specification → verification → execution)
 fm_for_ai:
   intro: ""
@@ -19,9 +17,12 @@ fm_for_ai:
     - title: "Neuton"
       description: "Neuton is a compiler and execution framework for ConstraintFlow specifications. It translates high-level declarative certifier specifications into efficient executable implementations, bridging the gap between formally specified analyses and practical large-scale neural network verification."
       url: "https://arxiv.org/abs/2507.20055"
-      venue: "Arxiv 2025"
+      venue: "Under review"
       github: "https://github.com/uiuc-focal-lab/constraintflow"
       img: "assets/img/neuton.png"
+    - title: "KV Cache Management for Agentic Workflows"
+      description: "Ongoing work on principled methods for KV cache eviction and memory management, tailored to the long-horizon, multi-step execution patterns of LLM-based agentic workflows."
+      venue: "Ongoing"
 
 # AI for Formal Methods
 ai_for_fm:
@@ -30,16 +31,16 @@ ai_for_fm:
     - title: "SAIL"
       description: "SAIL automatically synthesizes new neural network certifiers by leveraging the ConstraintFlow DSL together with its soundness verifier and compiler. It explores the space of certifier designs and produces new certification procedures that are correct by construction."
       url: "https://arxiv.org/abs/2511.13663"
-      venue: "Arxiv 2025"
+      venue: "PLDI 2026"
       github: "https://github.com/GuQiuhan/SAIL-Sound-Abstract-Interpreters-with-LLMs"
       img: "assets/img/sail.png"
     - title: "RuleFlow"
       description: "RuleFlow automatically generates data-analysis and Pandas optimizations by combining large language models with compiler and program analysis techniques. It targets reusable, rule-based transformations that improve performance while preserving program semantics."
       url: "https://arxiv.org/abs/2602.09051"
-      venue: "Arxiv 2026"
+      venue: "COLM 2026"
       github: "https://github.com/ADAPT-uiuc/RuleFlow"
       img: "assets/img/ruleflowLogo.png"
-    - title: "Automated Theorem Proving"
+    - title: "Maestro"
       description: "This project studies the use of AI and large language models to assist and automate theorem proving. The goal is to support formal reasoning by guiding proof search, generating intermediate lemmas, and helping interact with modern theorem provers."
       url: "/assets/pdf/Theorem_Proving.pdf"
       venue: "VerifAI @ ICLR 2026"
