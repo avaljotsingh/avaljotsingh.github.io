@@ -11,8 +11,6 @@
       value: December 2026
     - name: Email
       value: avaljot2@illinois.edu
-    - name: Languages
-      value: English, Hindi, Punjabi
 
 - title: Research Interests
   type: list
@@ -32,17 +30,17 @@
       department: Urbana, IL, USA
       year: 2022 - 2026
       description:
-        - Advisors: Prof. Gagandeep Singh and Prof. Charith Mendis
-        - Research areas: programming languages, formal methods, and machine learning
-        - GPA: 4.0 / 4.0
+        - "<b>Advisors:</b> Prof. Gagandeep Singh and Prof. Charith Mendis"
+        - "<b>Research areas:</b> programming languages, formal methods, and machine learning"
+        - "<b>GPA:</b> 4.0 / 4.0"
     - title: B.Tech. and M.Tech. in Computer Science
       institution: Indian Institute of Technology, Delhi
       department: New Delhi, India
       year: 2016 - 2021
       description:
-        - "Advisor: Prof. Sanjiva Prasad"
-        - "Thesis: Algebraic techniques for network routing"
-        - "GPA: 9.5 / 10"
+        - "<b>Advisor:</b> Prof. Sanjiva Prasad"
+        - "<b>Thesis:</b> Algebraic techniques for network routing"
+        - "<b>GPA:</b> 9.5 / 10"
 
 - title: Experience
   type: time_table
@@ -52,7 +50,7 @@
       department: Redmond, WA, USA
       year: 2025
       description:
-        - Mentors: Shraddha Barke and Suman Nath
+        - "<b>Mentors:</b> Shraddha Barke and Suman Nath"
         - Studied failures in LLM-based AI agents by analyzing execution trajectories.
         - Designed symbolic ways of agent execution to pinpoint failure modes and improve agent reliability.
     - title: Quantitative Researcher
@@ -67,7 +65,7 @@
       department: Bangalore, India
       year: 2021
       description:
-        - Mentor: Rahul Sharma
+        - "<b>Mentor:</b> Rahul Sharma"
         - Designed a domain-specific language and type system for mixed-mode multi-party computation applied to ML workloads.
         - Formally proved correctness and cryptographic security guarantees for well-typed programs in the system.
     - title: Software Engineering Intern
@@ -82,7 +80,7 @@
       department: Ithaca, NY, USA
       year: 2019
       description:
-        - Mentor: Prof. Nate Foster
+        - "<b>Mentor:</b> Prof. Nate Foster"
         - Extended NetKAT, a formal framework for network programming, to support configurable edge devices.
         - Defined the syntax and semantics of Edge-NetKAT, pushing NetKAT program functionality to programmable network edges.
     - title: Research Intern
@@ -90,7 +88,7 @@
       department: Hiroshima, Japan
       year: 2018
       description:
-        - Mentor: Prof. Idaku Ishii
+        - "<b>Mentor:</b> Prof. Idaku Ishii"
         - Implemented a facial recognition system mounted on a 2-DOF mechanical tracking actuator for real-time surveillance.
         - Developed a high-speed camera interfacing pipeline for real-time image synthesis and object tracking.
 
@@ -102,7 +100,7 @@
         - "ConstraintFlow — a declarative DSL for specifying and verifying neural network certifiers, reducing implementation complexity significantly over hand-written implementations. [SAS 2024]"
         - "ProveSound — an automated soundness verifier that formally checks certifier implementations against concrete neural network semantics. [OOPSLA 2025]"
         - "Neuton — a compiler and runtime translating ConstraintFlow specifications into efficient executables for large-scale neural network verification. [Under review]"
-        - "KV cache management for agentic workflows — principled methods for cache eviction and memory management tailored to long-horizon, multi-step LLM agents. [Ongoing]"
+        - "PromptFlow — principled methods for cache eviction and memory management tailored to long-horizon, multi-step LLM agents. [Ongoing]"
     - title: AI for Formal Methods
       items:
         - "SAIL — a synthesis system that automatically generates provably sound neural network certifiers using ConstraintFlow, its verifier, and LLM-guided search over certifier designs. [PLDI 2026]"

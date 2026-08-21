@@ -20,8 +20,8 @@ fm_for_ai:
       venue: "Under review"
       github: "https://github.com/uiuc-focal-lab/constraintflow"
       img: "assets/img/neuton.png"
-    - title: "KV Cache Management for Agentic Workflows"
-      description: "Ongoing work on principled methods for KV cache eviction and memory management, tailored to the long-horizon, multi-step execution patterns of LLM-based agentic workflows."
+    - title: "PromptFlow"
+      description: "PromptFlow develops principled methods for KV cache eviction and memory management, tailored to the long-horizon, multi-step execution patterns of LLM-based agentic workflows."
       venue: "Ongoing"
 
 # AI for Formal Methods
