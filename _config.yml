@@ -201,8 +201,8 @@ scholar:
   group_by: year
   group_order: descending
 badges:
-  altmetric_badge: true
-  dimensions_badge: true
+  altmetric_badge: false
+  dimensions_badge: false
 filtered_bibtex_keywords:
   - abbr
   - abstract

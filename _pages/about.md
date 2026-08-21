@@ -8,11 +8,6 @@ profile:
   align: right
   image: new_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Room 2107, Thomas M. Siebel Center</p>
-    <p>201 N Goodwin Avenue</p>
-    <p>Urbana, IL 61801</p>
-    <p>United States</p>
 
 news: true
 latest_posts: false
