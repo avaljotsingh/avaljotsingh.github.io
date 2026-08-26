@@ -21,6 +21,7 @@ Add `--drafts` to preview anything in `_drafts/`.
 |---|---|
 | Homepage bio and layout switches | `_pages/about.md` |
 | Publications | `_bibliography/papers.bib` (rendered by jekyll-scholar) |
+| CV PDF | `assets/pdf/cv_aval.pdf` (the /cv/ page is just a link to it) |
 | Venue badge colors | `_data/venues.yml` |
 | Coauthor homepage links | `_data/coauthors.yml` |
 | Research theme cards | `_data/research_projects.yml` |
