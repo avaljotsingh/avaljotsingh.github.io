@@ -24,8 +24,6 @@ Add `--drafts` to preview anything in `_drafts/`.
 | Venue badge colors | `_data/venues.yml` |
 | Coauthor homepage links | `_data/coauthors.yml` |
 | Research theme cards | `_data/research_projects.yml` |
-| CV page contents | `_data/cv.yml` |
-| CV PDF | `assets/pdf/cv_aval.pdf` |
 | News items | `_news/` (one file per item) |
 | Blog posts | `_posts/`, drafts in `_drafts/` |
 | Theme colors | `_sass/_variables.scss`, `_sass/_themes.scss` |
