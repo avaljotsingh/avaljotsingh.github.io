@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Maestro**, our unified operational formalism for LLM-based theorem proving, is accepted at the **VerifAI workshop at ICLR 2026**.
+**Maestro** — *Unified Operational Formalism for LLM-based Theorem-proving Systems* — is accepted at the **VerifAI workshop at ICLR 2026**. [[paper](https://www.alphaxiv.org/abs/2608.maestro-llm-theorem-proving)]

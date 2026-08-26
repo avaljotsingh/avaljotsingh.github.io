@@ -42,6 +42,6 @@ ai_for_fm:
       img: "assets/img/ruleflowLogo.png"
     - title: "Maestro"
       description: "This project studies the use of AI and large language models to assist and automate theorem proving. The goal is to support formal reasoning by guiding proof search, generating intermediate lemmas, and helping interact with modern theorem provers."
-      url: "/assets/pdf/Theorem_Proving_VerifAI_2026.pdf"
+      url: "https://www.alphaxiv.org/abs/2608.maestro-llm-theorem-proving"
       venue: "VerifAI @ ICLR 2026"
       img: "assets/img/theoremProving.png"
